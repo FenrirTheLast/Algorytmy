@@ -1,2 +1,1 @@
-# Algorytmy
-Algorytmy-CSHARP
+# Algorytmy - Ćwiczenia
