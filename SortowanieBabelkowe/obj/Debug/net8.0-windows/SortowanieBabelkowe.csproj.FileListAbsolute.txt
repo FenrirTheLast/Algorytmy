@@ -1,0 +1,16 @@
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\bin\Debug\net8.0-windows\SortowanieBabelkowe.exe
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\bin\Debug\net8.0-windows\SortowanieBabelkowe.deps.json
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\bin\Debug\net8.0-windows\SortowanieBabelkowe.runtimeconfig.json
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\bin\Debug\net8.0-windows\SortowanieBabelkowe.dll
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\bin\Debug\net8.0-windows\SortowanieBabelkowe.pdb
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.Form1.resources
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.csproj.GenerateResource.cache
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.AssemblyInfoInputs.cache
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.AssemblyInfo.cs
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.csproj.CoreCompileInputs.cache
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.dll
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\refint\SortowanieBabelkowe.dll
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.pdb
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\SortowanieBabelkowe.genruntimeconfig.cache
+C:\Users\Fenrir\source\repos\SortowanieBabelkowe\obj\Debug\net8.0-windows\ref\SortowanieBabelkowe.dll
