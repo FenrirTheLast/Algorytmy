@@ -1,0 +1,16 @@
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\bin\Debug\net8.0-windows\Algorytmy_Sortowanie.exe
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\bin\Debug\net8.0-windows\Algorytmy_Sortowanie.deps.json
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\bin\Debug\net8.0-windows\Algorytmy_Sortowanie.runtimeconfig.json
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\bin\Debug\net8.0-windows\Algorytmy_Sortowanie.dll
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\bin\Debug\net8.0-windows\Algorytmy_Sortowanie.pdb
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.Form1.resources
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.csproj.GenerateResource.cache
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.AssemblyInfoInputs.cache
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.AssemblyInfo.cs
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.dll
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\refint\Algorytmy_Sortowanie.dll
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.pdb
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\Algorytmy_Sortowanie.genruntimeconfig.cache
+C:\Users\Fenrir\source\repos\Algorytmy_Sortowanie\obj\Debug\net8.0-windows\ref\Algorytmy_Sortowanie.dll
