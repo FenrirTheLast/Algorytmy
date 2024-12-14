@@ -1,0 +1,16 @@
+C:\Users\Fenrir\source\repos\KoloSort\bin\Debug\net6.0-windows\KoloSort.exe
+C:\Users\Fenrir\source\repos\KoloSort\bin\Debug\net6.0-windows\KoloSort.deps.json
+C:\Users\Fenrir\source\repos\KoloSort\bin\Debug\net6.0-windows\KoloSort.runtimeconfig.json
+C:\Users\Fenrir\source\repos\KoloSort\bin\Debug\net6.0-windows\KoloSort.dll
+C:\Users\Fenrir\source\repos\KoloSort\bin\Debug\net6.0-windows\KoloSort.pdb
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.Form1.resources
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.csproj.GenerateResource.cache
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.AssemblyInfoInputs.cache
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.AssemblyInfo.cs
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.csproj.CoreCompileInputs.cache
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.dll
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\refint\KoloSort.dll
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.pdb
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\KoloSort.genruntimeconfig.cache
+C:\Users\Fenrir\source\repos\KoloSort\obj\Debug\net6.0-windows\ref\KoloSort.dll

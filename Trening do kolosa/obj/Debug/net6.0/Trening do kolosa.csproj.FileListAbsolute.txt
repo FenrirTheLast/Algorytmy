@@ -1,0 +1,14 @@
+C:\Users\Fenrir\source\repos\Trening do kolosa\bin\Debug\net6.0\Trening do kolosa.exe
+C:\Users\Fenrir\source\repos\Trening do kolosa\bin\Debug\net6.0\Trening do kolosa.deps.json
+C:\Users\Fenrir\source\repos\Trening do kolosa\bin\Debug\net6.0\Trening do kolosa.runtimeconfig.json
+C:\Users\Fenrir\source\repos\Trening do kolosa\bin\Debug\net6.0\Trening do kolosa.dll
+C:\Users\Fenrir\source\repos\Trening do kolosa\bin\Debug\net6.0\Trening do kolosa.pdb
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.AssemblyInfoInputs.cache
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.AssemblyInfo.cs
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.csproj.CoreCompileInputs.cache
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.dll
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\refint\Trening do kolosa.dll
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.pdb
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\Trening do kolosa.genruntimeconfig.cache
+C:\Users\Fenrir\source\repos\Trening do kolosa\obj\Debug\net6.0\ref\Trening do kolosa.dll
