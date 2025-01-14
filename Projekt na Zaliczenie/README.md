@@ -1,6 +1,6 @@
 # Projekt na zaliczenie przedmiotu Algorytmy i Struktury Danych
 
-Nazwa Projektu: Pacjenci-Lekarze
+Nazwa Projektu: Pacjenci - Lekarze
 
 Autor Projektu: Damian Wilk (175217)
 
