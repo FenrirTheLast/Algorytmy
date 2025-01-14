@@ -1,0 +1,17 @@
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt_Pacjenci___Lekarze.Form1.resources
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.csproj.GenerateResource.cache
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.AssemblyInfoInputs.cache
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.AssemblyInfo.cs
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.csproj.CoreCompileInputs.cache
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\bin\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.exe
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\bin\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.deps.json
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\bin\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.runtimeconfig.json
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\bin\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.dll
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\bin\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.pdb
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.dll
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\refint\Projekt Pacjenci - Lekarze.dll
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.pdb
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt Pacjenci - Lekarze.genruntimeconfig.cache
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\ref\Projekt Pacjenci - Lekarze.dll
+C:\Users\Fenrir\source\repos\Projekt Pacjenci - Lekarze\obj\Debug\net6.0-windows\Projekt_Pacjenci___Lekarze.Properties.Resources.resources
