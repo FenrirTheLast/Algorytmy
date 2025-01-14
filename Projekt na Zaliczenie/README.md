@@ -14,11 +14,11 @@ Wykorzystane struktury danych:
 pacjentach oraz lekarzach.
 - Każdy pacjent oraz lekarz jest obiektem odpowiednio klasy Pacjent lub 
 Lekarz.
-Klasa Pacjent przechowuje następujące informacje:
+- Klasa Pacjent przechowuje następujące informacje:
 - Imię (string) – imię pacjenta.
 - Nazwisko (string) – nazwisko pacjenta.
 - Choroba (string) – schorzenie, które ma pacjent.
-Klasa Lekarz zawiera:
+- Klasa Lekarz zawiera:
 - Imię (string) – imię lekarza.
 - Specjalizacja (string) – specjalizacja lekarza.
 - Pacjenci (List<Pacjent>) – lista pacjentów przypisanych do danego lekarza.
